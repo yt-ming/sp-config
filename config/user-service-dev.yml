@@ -21,8 +21,4 @@ management:
   endpoints:
     web:
       exposure:
-<<<<<<< HEAD
         include: refresh
-=======
-        include: refresh
->>>>>>> branch 'master' of https://github.com/yt-ming/sp-config.git
