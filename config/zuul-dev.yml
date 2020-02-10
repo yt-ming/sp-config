@@ -1,6 +1,9 @@
 spring:
   application:
     name: zull
+  cloud:
+    config:
+      override-none: true
     
 server:
   port: 3001
